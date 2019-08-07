@@ -153,15 +153,47 @@ h1, h2, h3, h4, h5 {
 }
 .design-box {
 	background-color: lightgray;
-	border:
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
+}
+.ux-box {
+	background-color: lightgray;
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
 }
 .content-grid .row2 {
 	display: flex;
 	margin: 40px;
 }
+.marketing-box {
+	background-color: lightgray;
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
+}
+.webdev-box {
+	background-color: lightgray;
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
+}
 .content-grid .row3 {
 	display: flex;
 	margin: 40px;
+}
+.ios-box {
+	background-color: lightgray;
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
+}
+.android-box {
+	background-color: lightgray;
+	border: 2px solid black;
+	height: 300px;
+	width: 300px;
 }
 .services-facts-container {
 	display: flex;
