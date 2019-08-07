@@ -145,11 +145,15 @@ h1, h2, h3, h4, h5 {
 	display: flex;
 	justify-content: center;
 	margin: 80px 	200px;	
-	flex-wrap: wrap;	
+	flex-wrap: wrap;
 }
 .content-grid .row1 {
 	display: flex;
 	margin: 40px;
+}
+.design-box {
+	background-color: lightgray;
+	border:
 }
 .content-grid .row2 {
 	display: flex;
@@ -159,6 +163,19 @@ h1, h2, h3, h4, h5 {
 	display: flex;
 	margin: 40px;
 }
-.services-facts {
-	margin: 50px 200px;
+.services-facts-container {
+	display: flex;
+	margin: 200px;
+}
+.services-left {
+	display: flex;
+	flex-direction: column;
+}
+.services-left ul {
+	list-style-type: disc;
+	margin: 30px;
+	line-height: 24px;
+}
+.services-facts-container img {
+	margin: 20px;
 }
