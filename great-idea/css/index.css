@@ -152,48 +152,52 @@ h1, h2, h3, h4, h5 {
 	margin: 40px;
 }
 .design-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
+	margin-right: 30px;
+}
+.design-box h3 {
+	padding: 20px;
 }
 .ux-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
 }
 .content-grid .row2 {
 	display: flex;
 	margin: 40px;
 }
 .marketing-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
 }
 .webdev-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
 }
 .content-grid .row3 {
 	display: flex;
 	margin: 40px;
 }
 .ios-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
 }
 .android-box {
-	background-color: lightgray;
+	background-color: #dedede;
 	border: 2px solid black;
 	height: 300px;
-	width: 300px;
+	width: 400px;
 }
 .services-facts-container {
 	display: flex;
