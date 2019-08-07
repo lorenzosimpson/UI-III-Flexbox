@@ -99,33 +99,23 @@ h1, h2, h3, h4, h5 {
 }
 .middle .left-side .button {
 	margin-left: 0px;
-	width: 200px;	
-}
-
-
-
-h1 {
-	
-}
-.headImg {
-}
-.button {
-	padding: 10px 30px;
-	font-size: 16px;
-	margin-left: 150px;
+	width: 200px;
+	font-size: 14px;	
 }
 .text1 {
-
+	display: flex;
+	justify-content: space-between;
+	margin: 40px 290px;
 }
-.middle-img {
-
+.text1 .features-section {
+	display: flex;
+	flex-wrap: wrap;
+}	
+.center-img {
+	display: flex;
+	justify-content: center;
 }
 .text2 {
-
-}
-.contact {
-
-}
-.footer {
-	
+	display: flex;
+	margin: 40px 290px;
 }
