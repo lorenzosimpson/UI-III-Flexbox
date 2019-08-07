@@ -82,17 +82,27 @@ h1, h2, h3, h4, h5 {
 	padding: 20px 60px;
 }
 
-
-
-.logo {
-	
-}
-.links {
-	
-}
 .middle {
-	
+	display: flex;
+	justify-content: center;
+	margin-top: 70px;
 }
+.middle .left-side {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	margin-right: 70px;
+}
+.middle .left-side .innovation {
+	font-size: 72px;
+	margin-top: 40px;
+}
+.middle .left-side .button {
+	margin-left: 0px;
+	width: 200px;	
+}
+
+
 
 h1 {
 	
