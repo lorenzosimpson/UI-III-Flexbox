@@ -141,6 +141,24 @@ h1, h2, h3, h4, h5 {
 .services-desc h2 {
 	font-size: 40px;
 }
-.services-desc p {
-
+.content-grid {
+	display: flex;
+	justify-content: center;
+	margin: 80px 	200px;	
+	flex-wrap: wrap;	
+}
+.content-grid .row1 {
+	display: flex;
+	margin: 40px;
+}
+.content-grid .row2 {
+	display: flex;
+	margin: 40px;
+}
+.content-grid .row3 {
+	display: flex;
+	margin: 40px;
+}
+.services-facts {
+	margin: 50px 200px;
 }
